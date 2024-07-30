@@ -1,2 +1,2 @@
-# Vrinda-Store-Data-Analysis-by-Project
+# Vrinda-Store-Data-Analysis-Project
 Data Analytics Project using Excel
