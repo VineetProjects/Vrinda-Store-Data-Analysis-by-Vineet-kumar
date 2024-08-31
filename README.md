@@ -23,9 +23,4 @@ This project involves creating an interactive dashboard in Microsoft Excel to an
 
 - Microsoft Excel (2016 or later recommended)
 - Basic knowledge of Excel functionalities such as PivotTables, charts, and slicers.
-
-### Installation
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/Krishnkumar542/Vrinda-Store-Data-Analysis.git
+t
